@@ -1,12 +1,12 @@
-# WhatsApp-Status-Saver
-A WhatsApp Status Saver App, Working on Android android 11 , 10 , 9 , 8 , 7 , 6 ....
+# Status-Saver
+A Status Saver App, Working on Android android 11 , 10 , 9 , 8 , 7 , 6 ....
 <br>
 <br>
 <br>
-Download the `apk-debug.apk` to try out WhatsApp Status Saver
+Download the `apk-debug.apk` to try out Status Saver
 <br>
 <br>
-<a href="https://github.com/anshu-himanshu/WhatsApp-Status-Saver/releases/download/1.0/app-debug.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/anshu-himanshu/Status-Saver/releases/download/1.0/app-debug.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
 <br>
 Don't forget to star⭐ the repo if you like what you see😉.
