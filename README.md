@@ -14,7 +14,7 @@ Don't forget to star⭐ the repo if you like what you see😉.
 <br>
 <br>
 
-## Screenshots
+<!-- ## Screenshots
 
 <p float="left">
   
@@ -24,9 +24,9 @@ Don't forget to star⭐ the repo if you like what you see😉.
   <img src=https://user-images.githubusercontent.com/88643441/175808694-c68e260e-1b09-4411-8178-1ad89f42d711.png width="190" height="380" alt="Screenshot 4">
   <img src=https://user-images.githubusercontent.com/88643441/175808692-b647f33b-7fad-4adb-b782-8cd3bb9c32e4.png width="190" height="380" alt="Screenshot 5">
   <img src=https://user-images.githubusercontent.com/88643441/175808696-9166f62b-c50c-43a7-9139-c82d85319d9e.png width="190" height="380" alt="Screenshot 1">
-</p>
+</p> -->
 
-## License
+<!-- ## License
 
 Copyright 2021 - 2022 Himanshu Yadav
 
@@ -35,3 +35,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ -->
